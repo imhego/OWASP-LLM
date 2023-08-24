@@ -1,5 +1,5 @@
 # OWASP LLM Top 10
-[![OWASP LLM Top 10](https://github.com/imhego/OWASP-LLM-Top10/blob/main/gif.gif?raw=true)](https://hego.gitbook.io/home/owasp/owasp-llm-top-10-v1.0)
+[![OWASP LLM Top 10](https://github.com/imhego/OWASP-LLM/blob/main/gif.gif?raw=true)](https://hego.gitbook.io/home/owasp/owasp-llm-top-10-v1.0)
 
 ### [HEGO Wiki](https://hego.gitbook.io/home/owasp/owasp-llm-top-10-v1.0)
 
